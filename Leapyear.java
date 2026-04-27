@@ -3,9 +3,9 @@
 // simple programm
 //Modified by Arun KR
 // modified good
-// modified by arun 2.................
 
-public class LeapYearCheck {
+
+public class Leapyear {
    public static void main(String[] args) {
        int year = 2024;
        if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0)) {
