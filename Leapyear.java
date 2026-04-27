@@ -1,5 +1,5 @@
 // To find the Leap year or not
-// modified by siva suriya
+// modified by siva suriya rajan
 
 public class LeapYearCheck {
    public static void main(String[] args) {
